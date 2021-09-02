@@ -18,12 +18,12 @@ HTML5
 Css3
 git
 github
-
-Launch
+markdown file
 
 Consider also using additional elements such as: 
 
 ## Table of contents
+open index.html to get a breif about markdown file 
 
 ### Illustrations
 
@@ -32,6 +32,7 @@ Consider also using additional elements such as:
 ### Examples of use
 
 ### Project status 
+developing
 
 ### Sources
 
